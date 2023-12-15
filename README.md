@@ -1,6 +1,6 @@
 ### Hi there, I'm Jason Tian
 ### Be good at languages and tools
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,prisma,mongodb,graphql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,prisma,mongodb,graphql&perline=3)](https://skillicons.dev)
 <!--
 **yikejason/yikejason** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
