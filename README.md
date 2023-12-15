@@ -1,7 +1,9 @@
 ### Hi there, I'm Jason Tian
 
 💬 WeChat: AsQhan<br/>
-✉️ Email: whenhan@foxmail.com  
+✉️ Email: whenhan@foxmail.com<br/> 
+
+More details on
 
 ### Be good at languages and tools
 [![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,prisma,mongodb,graphql&perline=4)](https://skillicons.dev)
