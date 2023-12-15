@@ -5,7 +5,7 @@ I'm a senior software engineer. I'm focus on front-end and back-end development.
 More details on
 
 ### 🔨  Be good at languages and tools
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,prisma,mongodb,graphql&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,prisma,mongodb,graphql,html,css&perline=5)](https://skillicons.dev)
 <!--
 **yikejason/yikejason** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
