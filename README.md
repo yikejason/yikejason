@@ -1,11 +1,10 @@
 ### Hi there, I'm Jason Tian
 
-💬 WeChat: AsQhan<br/>
-✉️ Email: whenhan@foxmail.com<br/> 
+I'm a senior software engineer. I was engaged in UI design in the early years and now focus on front-end development. I like engineering and interactive design. At present, I master the technological ecology, including react, nextjs, nodejs, electron and so on. And I begin to learn the rust program language.
 
 More details on
 
-### Be good at languages and tools
+### 🔨 Be good at languages and tools
 [![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,prisma,mongodb,graphql&perline=4)](https://skillicons.dev)
 <!--
 **yikejason/yikejason** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
