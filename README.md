@@ -1,6 +1,6 @@
 ### Hi there, I'm Jason Tian
 
-I'm a senior software engineer. I'm focus on front-end and back-end development. I enjoy programming. At present, I master the technological ecology, including html, css, js, ts, reactjs, nextjs, nodejs and so on. And I begin to learn the rust program language.
+I'm a senior software engineer. I'm focus on front-end and back-end development. I enjoy programming. At present, I master the technological ecology, including html, css, js, ts, reactjs, nextjs, nodejs and so on.
 
 More details on
 
