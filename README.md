@@ -20,3 +20,9 @@ Here are some ideas to get you started:
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yikejason&show_icons=true&hide_rank=true&hide_title=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yikejason&layout=compact)
+
+### Favorite
+Love listening to music, coding, fishing
+
+### Connect me
+544803526tianxi@gmail.com
