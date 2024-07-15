@@ -2,8 +2,6 @@
 
 I'm a senior software engineer. I'm focus on front-end and back-end development. I enjoy programming. At present, I master the technological ecology, including html, css, js, ts, reactjs, nextjs, nodejs and so on.
 
-More details on
-
 ### 🔨  Be good at languages and tools
 [![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,prisma,mongodb,graphql,html,css,rust&perline=6)](https://skillicons.dev)
 <!--
