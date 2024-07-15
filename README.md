@@ -24,5 +24,4 @@ Here are some ideas to get you started:
 ### Favorite
 Love listening to music, coding, fishing
 
-### Connect me
-544803526tianxi@gmail.com
+
